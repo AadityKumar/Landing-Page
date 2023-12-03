@@ -76,6 +76,10 @@ body{
     border-radius: 8px;
     text-align: center;
 }
+.box:hover{
+    background-color: white;
+    border: 1px solid white;
+}
 
 .box h2{
     font-size: 2rem;
